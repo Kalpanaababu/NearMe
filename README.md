@@ -58,12 +58,7 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-10-22 224746.png>) 
-![alt text](<Screenshot 2025-10-22 224040.png>) 
-![alt text](<Screenshot 2025-10-22 224025.png>) 
-![alt text](<Screenshot 2025-10-22 224013.png>) 
-![alt text](<Screenshot 2025-10-22 224000.png>) 
-![alt text](<Screenshot 2025-10-22 223944.png>)
+![alt text](<Screenshot 2025-10-22 223944.png>) ![alt text](<Screenshot 2025-10-22 224746.png>) ![alt text](<Screenshot 2025-10-22 224040.png>) ![alt text](<Screenshot 2025-10-22 224025.png>) ![alt text](<Screenshot 2025-10-22 224013.png>) ![alt text](<Screenshot 2025-10-22 224000.png>)
 
 
 
